@@ -1,8 +1,7 @@
 package ru.madrabit.leetcode;
 
 import org.junit.jupiter.api.Test;
-
-import static org.junit.jupiter.api.Assertions.*;
+import ru.madrabit.leetcode.twopointers.TwoSum2Medium;
 
 class TwoSum2MediumTest {
 

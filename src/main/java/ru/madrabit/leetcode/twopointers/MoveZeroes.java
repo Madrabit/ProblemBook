@@ -1,4 +1,4 @@
-package ru.madrabit.leetcode;
+package ru.madrabit.leetcode.twopointers;
 
 public class MoveZeroes {
     public static int[] moveZeroes(int[] nums) {

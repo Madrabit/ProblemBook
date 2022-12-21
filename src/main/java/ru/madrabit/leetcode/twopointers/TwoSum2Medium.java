@@ -1,4 +1,4 @@
-package ru.madrabit.leetcode;
+package ru.madrabit.leetcode.twopointers;
 
 public class TwoSum2Medium {
     public static int[] twoSum(int[] numbers, int target) {

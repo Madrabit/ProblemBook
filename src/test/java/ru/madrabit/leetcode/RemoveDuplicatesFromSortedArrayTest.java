@@ -1,8 +1,7 @@
 package ru.madrabit.leetcode;
 
 import org.junit.jupiter.api.Test;
-
-import java.util.Arrays;
+import ru.madrabit.leetcode.twopointers.RemoveDuplicatesFromSortedArray;
 
 import static org.junit.jupiter.api.Assertions.*;
 

@@ -1,6 +1,7 @@
 package ru.madrabit.leetcode;
 
 import org.junit.jupiter.api.Test;
+import ru.madrabit.leetcode.twopointers.MoveZeroes;
 
 import java.util.Arrays;
 

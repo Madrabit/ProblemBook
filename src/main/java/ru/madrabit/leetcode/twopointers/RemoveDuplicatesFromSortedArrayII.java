@@ -1,4 +1,4 @@
-package ru.madrabit.leetcode;
+package ru.madrabit.leetcode.twopointers;
 
 public class RemoveDuplicatesFromSortedArrayII {
     public static int removeDuplicates(int[] nums) {
